@@ -1,5 +1,5 @@
 {
-  "name": "grunt-useref",
+  "name": "@minar-kotonoha/grunt-useref",
   "title": "Grunt Useref",
   "description": "Use build blocks to update the references in your html and perform file concatenation, minification, and cache busting.",
   "version": "0.0.16",
